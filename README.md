@@ -110,8 +110,8 @@ Predicted Genre: Action / Thriller
 <section>
     <h2>📞 Contact & Collaboration</h2>
     <p><strong>Author:</strong> Vishesh Singh</p>
-    <p><strong>GitHub:</strong> <a href="https://github.com/VisheshSingh21" target="_blank">https://github.com/VisheshSingh21</a></p>
-    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/VisheshSingh" target="_blank">https://www.linkedin.com/in/VisheshSingh</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/VisheshSingh21" target="_blank">https://github.com/VisheshSingh2</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishesh-singh-3bb371249" target="_blank">https://www.linkedin.com/in/vishesh-singh-3bb371249</a></p>
     <p>Feel free to explore, contribute, or use this project as a learning reference!</p>
 </section>
 
